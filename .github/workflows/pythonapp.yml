@@ -4,6 +4,9 @@ on:
   pull_request:
     paths:
     - 'python/*'
+  push:
+    paths:
+      - '.github/workflows/*'
       
 jobs:
   build:
