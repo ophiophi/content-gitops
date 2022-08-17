@@ -10,4 +10,4 @@ kind: Namespace
 metadata:
   labels:
     name: lasample_qa
-  name: lasample
+  name: lasample_qa
